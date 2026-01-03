@@ -2,14 +2,8 @@
 E-commerce companies often use heavy first-order discounts to acquire new customers. While this strategy boosts short-term orders, its long-term impact on customer quality and revenue is unclear.  This project analyzes whether first-order incentives create long-term customer value or attract low-quality, one-time buyers.
 
 First-Order Incentive Impact Analysis
-📌 Overview
 
-E-commerce companies often use heavy first-order discounts to acquire new customers.
-While this strategy boosts short-term orders, its long-term impact on customer quality and revenue is unclear.
-
-This project analyzes whether first-order incentives create long-term customer value or attract low-quality, one-time buyers.
-
-🎯 Business Problem
+🎯 **Business Problem**
 
 The company is investing significantly in first-order incentives without clear evidence that these customers:
 
@@ -23,7 +17,7 @@ The key concern:
 
 Are we buying growth, or are we buying churn?
 
-❓ Key Business Questions
+❓ **Key Business Questions**
 
 This analysis answers the following questions:
 
@@ -35,7 +29,7 @@ Are high discounts attracting low-quality customers who churn early?
 
 Should the business reduce, maintain, or redesign its first-order incentive strategy?
 
-📐 Metrics Used (Deliberately Chosen)
+📐 **Metrics Used (Deliberately Chosen)**
 
 To avoid misleading conclusions, this project focuses on quality-driven metrics:
 
@@ -49,7 +43,7 @@ Orders per Customer
 
 Revenue per Retained Customer
 
-❌ Excluded on purpose:
+**❌ Excluded on purpose:**
 
 Total revenue
 
@@ -57,7 +51,7 @@ Total orders
 
 (These metrics hide churn and overstate success.)
 
-🧪 Analytical Approach
+**🧪 Analytical Approach**
 
 Filtered only delivered orders
 
@@ -73,7 +67,7 @@ Compared retention and LTV across incentive segments
 
 Derived business recommendations, not just charts
 
-⚠️ Data Assumptions & Limitations
+⚠️ **Data Assumptions & Limitations**
 
 The dataset does not contain explicit discount information.
 
@@ -87,7 +81,7 @@ All assumptions are clearly documented to maintain analytical integrity
 
 This approach mirrors real-world analytics, where promotional data is often incomplete.
 
-📦 Dataset
+📦 **Dataset**
 
 Source: Olist Brazilian E-commerce Dataset
 
@@ -103,7 +97,7 @@ order_items
 
 order_payments
 
-🛠 Tools
+🛠 **Tools**
 
 SQL (SQLite)
 
