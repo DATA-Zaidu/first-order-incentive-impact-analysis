@@ -1,13 +1,23 @@
-**Insight 1 — Baseline retention is extremely weak**
+**Insight 1 — Baseline retention is critically low**
 
-From the delivered-orders analysis:
+Result (from churn vs retained):
 
-~97% customers churn after their first order
+Churned customers: 90,557
 
-Only ~3% customers place a second order
+Retained customers: 2,801
 
-What this means:
+Retention rate: ~3%
 
-The business is not compounding customers. Revenue is largely driven by one-time transactions.
+Insight:
+
+Nearly 97% of customers churn after their first delivered order, indicating an extremely weak baseline retention.
+
+Why this matters:
+
+Revenue is not compounding
+
+Growth depends heavily on continuous re-acquisition
+
+Any acquisition spend is at high risk of not being recovered
 
 ---
