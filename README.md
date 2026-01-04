@@ -106,3 +106,14 @@ DB Browser for SQLite
 GitHub (documentation & versioning)
 
 The analysis logic is engine-agnostic and transferable to BigQuery, PostgreSQL, or Snowflake.
+
+
+## Results Snapshot
+
+- Baseline retention: ~3% (97% churn after first order)
+- Repeat rate by incentive: ~3% across all levels
+- 90-day LTV: ~125 across all incentive buckets
+- Conclusion: First-order incentives increase volume, not long-term value
+
+
+
