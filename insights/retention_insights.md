@@ -1,8 +1,11 @@
-1. Baseline customer retention is extremely weak
+**1. Baseline customer retention is extremely weak**
 Retention Breakdown
-Customer Status	Customers	Share of Customers
-Churned (1 order only)	90,557	~97%
-Retained (2+ orders)	2,801	~3%
+
+| Customer Status       |	Customers	Share of Customers |
+|-----------------------|------------------------------|
+| Churned (1 order only)|	90,557	~97%                 |
+|Retained (2+ orders) 	|2,801	~3%      ~4–7%         |
+
 Key takeaway
 
 Only ~3% of customers return after their first order
