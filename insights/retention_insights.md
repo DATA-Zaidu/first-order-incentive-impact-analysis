@@ -1,12 +1,12 @@
 **Insight 1 — Baseline retention is critically low**
 
-Result (from churn vs retained):
 
-Churned customers: 90,557
+Customer | Status         |	Customers
+Churned  | (1 order only) |	90,557
+Retained |(2+ orders)     |	2,801
 
-Retained customers: 2,801
-
-Retention rate: ~3%
+Retention Rate: ~3%
+Churn Rate: ~97%
 
 Insight:
 
