@@ -1,23 +1,14 @@
-**Insight 1 — Baseline retention is critically low**
+1. Baseline customer retention is extremely weak
+Retention Breakdown
+Customer Status	Customers	Share of Customers
+Churned (1 order only)	90,557	~97%
+Retained (2+ orders)	2,801	~3%
+Key takeaway
 
+Only ~3% of customers return after their first order
 
-Customer | Status         |	Customers
-Churned  | (1 order only) |	90,557
-Retained |(2+ orders)     |	2,801
+~97% churn immediately, indicating almost no organic retention
 
-Retention Rate: ~3%
-Churn Rate: ~97%
+Why this matters
 
-Insight:
-
-Nearly 97% of customers churn after their first delivered order, indicating an extremely weak baseline retention.
-
-Why this matters:
-
-Revenue is not compounding
-
-Growth depends heavily on continuous re-acquisition
-
-Any acquisition spend is at high risk of not being recovered
-
----
+Sustainable growth requires customer compounding. With such low retention, the business must continuously spend on acquisition just to maintain revenue, making growth fragile and expensive.
