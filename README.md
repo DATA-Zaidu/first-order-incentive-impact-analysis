@@ -117,3 +117,20 @@ The analysis logic is engine-agnostic and transferable to BigQuery, PostgreSQL, 
 
 
 
+Key Insights
+
+Customer retention is critically low: Only ~3% of customers place a second order, while ~97% churn after their first purchase, indicating almost no organic retention.
+
+First-order incentives do not improve retention: Repeat rates remain ~3% across low, medium, and high incentive scenarios, showing no meaningful behavioral change.
+
+Higher incentives do not increase customer value: 90-day LTV is nearly identical across all incentive levels, meaning higher discounts are not recovered through future purchases.
+
+Churn is structural, not promotional: Flat retention and flat LTV across incentive levels indicate that discounts are ineffective as a retention lever.
+
+Growth is acquisition-dependent and fragile: With such weak retention, the business must continuously spend on new customer acquisition just to maintain revenue, increasing 
+
+cost and risk.
+
+
+
+
